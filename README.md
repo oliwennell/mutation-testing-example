@@ -1,5 +1,3 @@
-# example-app
-
 An example of a Node.js app that uses [stryker](https://stryker-mutator.github.io).
 
 # Setup
