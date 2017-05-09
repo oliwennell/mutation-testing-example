@@ -1,0 +1,20 @@
+{
+  "name": "mtapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc -r html mocha",
+    "test": "nyc mocha && stryker run stryker.conf.js",
+    "stryker": "stryker run stryker.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "3.2.0",
+    "nyc": "10.1.2",
+    "stryker": "0.5.9",
+    "stryker-api": "0.4.2",
+    "stryker-mocha-runner": "0.2.0"
+  }
+}
