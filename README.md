@@ -1,4 +1,5 @@
-An example of a Node.js app that uses [stryker](https://stryker-mutator.github.io).
+A Node.js app designed to demonstrate mutation testing.
+Uses the [stryker](https://stryker-mutator.github.io) mutation testing framework.
 
 # Setup
 
