@@ -18,7 +18,7 @@ describe('Password validation', () => {
     // Uncomment this test to kill the mutant!
     // it('A string of length greater than 10 is not a valid password', () => {
     //     assert.equal(
-    //         passwordValidation.validate("1234567890"),
+    //         passwordValidation.validate("1234567890+"),
     //         false);
     // });
 });
